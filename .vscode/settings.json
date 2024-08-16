@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "stdbool.h": "c",
+        "i2c.h": "c",
+        "ioctl.h": "c",
+        "fcntl.h": "c",
+        "unistd.h": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "i2c-dev.h": "c",
+        "ledmatrix.h": "c",
+        "function.h": "c",
+        "control.h": "c",
+        "syscall.h": "c",
+        "button.h": "c"
+    }
+}
